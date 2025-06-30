@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Shivam</h1>
-<h3 align="center">A IOT engineer, but also intrested in hacking.</h3>
+<h3 align="center">A IOT engineer, but also interested in hacking stuffs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinipitaji&label=Profile%20views&color=0e75b6&style=flat" alt="chinipitaji" /> </p>
 
