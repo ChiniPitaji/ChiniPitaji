@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinipitaji" alt="chinipitaji" /></a> </p>
 
-- 🌱 I’m currently learning **learning Offensive Pentesting**
+- 🌱 I’m currently learning **Offensive Pentesting**
 
 - 💬 Ask me about **web development and linux.**
 
