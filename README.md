@@ -1,319 +1,187 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ═══════════════════════════════════════════════════════════
+     KUMAR SHIVAM // ChiniPitaji // PROFILE.EXE
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `> HELLO, WORLD_`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Kumar+Shivam+%F0%9F%91%8B;IoT+Engineer+%7C+Security+Enthusiast;Building+Things+That+Talk+to+the+Internet;Breaking+Things+to+Understand+How+They+Work" />
-
-### `IoT Engineer • Web Developer • Security Enthusiast`
-
-<img src="https://komarev.com/ghpvc/?username=chinipitaji&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7B2FFF,100:FF00C8&height=230&section=header&text=KUMAR%20SHIVAM&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=//%20IoT%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Offensive%20Security%20Learner&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/ChiniPitaji">
-<img src="https://img.shields.io/github/followers/ChiniPitaji?label=FOLLOWERS&style=for-the-badge&color=00f7ff&labelColor=0d1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=720&height=100&lines=%3E+whoami+%E2%86%92+kumar_shivam+%28aka+Kumart%29;%3E+building+%E2%86%92+IoT+%2B+AI+%2B+things+that+shouldn%27t+work+yet;%3E+status+%E2%86%92+breaking+stuff+ethically+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/ChiniPitaji?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00f7ff?style=for-the-badge&labelColor=0d1117" />
-</a>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chinipitaji&label=SYSTEM%20ACCESSES&color=00F5FF&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/ChiniPitaji?style=for-the-badge&logo=github&color=FF00C8&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/ChiniPitaji?style=for-the-badge&logo=starship&color=7B2FFF&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-<!-- ======================= ABOUT ======================= -->
-
-## `whoami`
-
-```bash
-┌──(shivam㉿github)-[~]
-└─$ whoami
-
-Kumar Shivam
-
-Role      : IoT Engineer
-Mindset   : Build → Break → Learn → Build Better
-Currently : Offensive Pentesting
-Interest  : IoT • Cybersecurity • Web Development • Linux
-OS        : Linux / Windows / macOS
-Status    : Always building something...
+```ansi
+┌──────────────────────────────────────────────────────────────┐
+│  USER        : Kumar Shivam                                  │
+│  HANDLE      : ChiniPitaji                                   │
+│  LOCATION    : New Delhi, India 🇮🇳                           │
+│  ROLE        : IoT Engineer · AI Builder                     │
+│  EDUCATION   : B.Tech Industrial IoT @ VIPS (GGSIPU)         │
+│  PATENTS     : 2 granted ⚡ (Smart City · AI Traffic Mgmt)    │
+│  CURRENTLY   : Learning Offensive Pentesting                 │
+│  ASK ME ABOUT: Web Dev · Linux · Embedded · Security         │
+│  FUN FACT    : My jokes are only funny to engineers.         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> **I build systems, break systems, and learn how systems actually work.**
+---
 
-I'm an **IoT-focused engineer** with a strong interest in **cybersecurity, offensive security, Linux and full-stack development**.
+## ⚡ `> cat about_me.txt`
 
-My playground sits somewhere between:
+<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bg-hacker.gif" alt="hacker" />
 
-**Hardware ⚡ + Software 💻 + Networks 🌐 + Security 🔐**
+- 🔭 Engineering **IoT systems** that talk to the real world — ESP32, sensors, smart infrastructure
+- 🧠 Building **AI-powered products** that automate the boring parts of life
+- 📜 Holder of **two granted patents** — **ClearPath** (smart city platform) & an **AI traffic management system**
+- 🕶️ Diving deep into **ethical hacking & offensive pentesting**
+- 🌐 Full-stack tinkerer — **MERN**, Next.js, Django, and Kotlin for Android
+- 🐧 Linux is home. Terminal is the cockpit.
+
+<br clear="right"/>
 
 ---
 
-## `current mission`
+## 🛠️ `> ls ~/arsenal`
 
-```text
-[████████████████████░░] 85%
+<div align="center">
 
-⚡ IoT Engineering
-███████████████████████░
+**// CORE**
 
-🌐 Full-Stack Development
-████████████████████░░░░
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,kotlin,bash&theme=dark" /><br/>
 
-🔐 Offensive Security
-████████████████░░░░░░░
+**// WEB & BACKEND**
 
-🐧 Linux
-████████████████████░░░
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,nestjs,django,bootstrap&theme=dark" /><br/>
 
-🤖 AI / Intelligent Systems
-██████████████░░░░░░░░░
+**// DATA & CLOUD**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,azure,oracle,docker,kubernetes&theme=dark" /><br/>
+
+**// HARDWARE · TOOLS · CREATIVE**
+
+<img src="https://skillicons.dev/icons?i=arduino,linux,git,github,postman,figma,blender,ps,unity,dotnet&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 `> ./run featured_projects`
+
+<div align="center">
+
+| 🪖 **Smart Helmet** | 🤖 **AutoHire AI** | 🌆 **Cyberpunk Portfolio** |
+|:---:|:---:|:---:|
+| Kotlin Android app for an IoT-based smart helmet system powered by **ESP32** hardware | **MERN** app automating job search & recruiter outreach — built for internship hunting | Neon-soaked, single-file personal site with a full cyberpunk aesthetic |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) | ![MERN](https://img.shields.io/badge/MERN-00F5FF?style=flat-square&logo=mongodb&logoColor=black) ![AI](https://img.shields.io/badge/AI-FF00C8?style=flat-square&logo=openai&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+</div>
+
+> 💡 **Tip:** Pin your favourite repos on your profile, or swap in live cards below by editing the `repo=` value.
+
+<div align="center">
+
+<!-- Replace REPO_NAME with your actual repo names -->
+<!--
+<a href="https://github.com/ChiniPitaji/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiniPitaji&repo=REPO_NAME&theme=radical&hide_border=true" />
+</a>
+-->
+
+</div>
+
+---
+
+## 📊 `> sudo stats --verbose`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChiniPitaji&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF00C8&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniPitaji&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com?user=ChiniPitaji&theme=radical&hide_border=true&background=0d1117&ring=FF00C8&fire=00F5FF&currStreakLabel=00F5FF" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChiniPitaji&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiniPitaji&bg_color=0d1117&color=00F5FF&line=FF00C8&point=ffffff&area=true&area_color=7B2FFF&hide_border=true" width="100%" alt="activity graph" />
+
+</div>
+
+---
+
+## 🔐 `> nmap -sV --my-journey`
+
+<div align="center">
+
+```
+ [██████████████████░░░░░░]  Web Development ........... 75%
+ [████████████████████░░░░]  Linux & Systems ........... 80%
+ [█████████████████████░░░]  IoT / Embedded ............ 85%
+ [██████████░░░░░░░░░░░░░░]  Offensive Pentesting ...... loading...
 ```
 
-### Currently Learning
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-- 🔐 **Offensive Pentesting**
-- 🐧 **Linux & Security**
-- 🌐 **Web Application Security**
-- ⚡ **IoT Security**
-- 🤖 **AI-powered systems**
-- ☁️ **Cloud & DevOps**
+</div>
 
----
-
-# `what i build`
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ IoT Systems
-
-Building connected systems using:
-
-`ESP32` `Arduino` `Sensors` `Embedded Systems`
-
-From hardware prototypes to intelligent connected systems.
-
-</td>
-
-<td width="50%">
-
-### 🔐 Cybersecurity
-
-Currently exploring:
-
-`Pentesting` `Linux` `Burp Suite` `OWASP`
-
-Breaking applications to understand how to secure them.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Web Development
-
-Building modern applications with:
-
-`React` `Next.js` `Node.js` `MongoDB`
-
-</td>
-
-<td width="50%">
-
-### 🤖 Intelligent Systems
-
-Exploring the combination of:
-
-`AI` + `IoT` + `Automation`
-
-to build smarter real-world systems.
-
-</td>
-</tr>
-</table>
+> ⚠️ *All hacking is done ethically, legally, and on systems I'm authorized to test.*
 
 ---
 
-# `featured projects`
-
-### 🚨 IoT Smart Monitoring System
-
-> Real-time IoT monitoring and intelligent environmental/traffic management system.
-
-**Stack**
-
-`ESP32` `Sensors` `IoT` `Web Dashboard` `Automation`
-
----
-
-### 🎓 InSearch / CampusBridge
-
-> A student-focused platform connecting students, colleges and companies.
-
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind` `Supabase`
-
-**Features**
-
-`Authentication` `Student Profiles` `Jobs` `Applications` `RLS`
-
----
-
-### 🪖 IoT Multi-Feature Smart Helmet
-
-> A connected safety system designed around accident detection and emergency response.
-
-**Hardware**
-
-`ESP32-CAM` `MPU6050` `GPS` `Bluetooth`
-
-**Features**
-
-`Dashcam` `Accident Detection` `SOS` `LED Alerts`
-
----
-
-# `tech_stack`
+## 🐍 `> tail -f /var/log/contributions`
 
 <div align="center">
 
-### Languages
+<!-- Requires a snake GitHub Action: https://github.com/Platane/snk -->
+<!--
+<img src="https://raw.githubusercontent.com/ChiniPitaji/ChiniPitaji/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+-->
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase" />
-
-### DevOps / Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,linux" />
-
-### IoT / Hardware
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-
-### Design / 3D
-
-<img src="https://skillicons.dev/icons?i=figma,blender,unity" />
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ChiniPitaji&label=VISITORS&countColor=%2300F5FF&style=for-the-badge&labelColor=%230d1117)
 
 </div>
 
 ---
 
-# `security playground`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                 SECURITY INTERESTS                   ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  Web Pentesting       ████████████████░░░░           ║
-║  Linux Security       ███████████████░░░░░           ║
-║  Network Security     █████████████░░░░░░           ║
-║  IoT Security         ████████████░░░░░░░           ║
-║  OWASP                ███████████████░░░░░           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-### Tools I like exploring
-
-`Burp Suite` • `OWASP` • `Linux` • `Docker` • `Git` • `Postman`
-
-> **Hack ethically. Learn relentlessly. Build responsibly.**
-
----
-
-# `github analytics`
+## 📡 `> ping kumar --connect`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChiniPitaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
+<a href="https://linkedin.com/in/kumar-shivam-37a865312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kumarshivamtiwari0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/chini._.pitaji"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/ChiniPitaji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniPitaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
-
-</div>
-
----
-
-# `contribution matrix`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiniPitaji&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-# `trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChiniPitaji&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-
----
-
-# `connect`
-
-<div align="center">
-
-<a href="mailto:kumarshivamtiwari0@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117" />
-</a>
-
-<a href="https://linkedin.com/in/kumar-shivam-37a865312">
-<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117" />
-</a>
-
-<a href="https://instagram.com/chini._.pitaji">
-<img src="https://img.shields.io/badge/INSTAGRAM-00F7FF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0D1117" />
-</a>
-
-<a href="https://github.com/ChiniPitaji">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" />
-</a>
-
-</div>
-
----
-
-# `support`
-
-<div align="center">
+<br/><br/>
 
 <a href="https://www.buymeacoffee.com/chinipitaji">
-
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" />
-
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="40" />
 </a>
 
-</div>
+<br/><br/>
 
----
+*"There's no place like 127.0.0.1"* 🏠
 
-<div align="center">
-
-### `> The best way to understand a system is to build it.`
-
-### `> The second best way is to break it.`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2FFF,100:00F5FF&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
