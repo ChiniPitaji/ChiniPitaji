@@ -1,30 +1,319 @@
-<h1 align="center">Hi 👋, I'm Kumar Shivam</h1>
-<h3 align="center">A IOT engineer, but also interested in hacking stuffs.</h3>
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinipitaji&label=Profile%20views&color=0e75b6&style=flat" alt="chinipitaji" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinipitaji" alt="chinipitaji" /></a> </p>
+# `> HELLO, WORLD_`
 
-- 🌱 I’m currently learning **Offensive Pentesting**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Kumar+Shivam+%F0%9F%91%8B;IoT+Engineer+%7C+Security+Enthusiast;Building+Things+That+Talk+to+the+Internet;Breaking+Things+to+Understand+How+They+Work" />
 
-- 💬 Ask me about **web development and linux.**
+### `IoT Engineer • Web Developer • Security Enthusiast`
 
-- 📫 How to reach me **kumarshivamtiwari0@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=chinipitaji&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
 
-- ⚡ Fun fact **My jokes are only funny to engineers.**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kumar-shivam-37a865312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-shivam-37a865312" height="30" width="40" /></a>
-<a href="https://instagram.com/chini._.pitaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chini._.pitaji" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/ChiniPitaji">
+<img src="https://img.shields.io/github/followers/ChiniPitaji?label=FOLLOWERS&style=for-the-badge&color=00f7ff&labelColor=0d1117" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<a href="https://github.com/ChiniPitaji?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00f7ff?style=for-the-badge&labelColor=0d1117" />
+</a>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chinipitaji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chinipitaji" /></a></p><br><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinipitaji&show_icons=true&locale=en&layout=compact" alt="chinipitaji" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinipitaji&show_icons=true&locale=en" alt="chinipitaji" /></p>
+<!-- ======================= ABOUT ======================= -->
+
+## `whoami`
+
+```bash
+┌──(shivam㉿github)-[~]
+└─$ whoami
+
+Kumar Shivam
+
+Role      : IoT Engineer
+Mindset   : Build → Break → Learn → Build Better
+Currently : Offensive Pentesting
+Interest  : IoT • Cybersecurity • Web Development • Linux
+OS        : Linux / Windows / macOS
+Status    : Always building something...
+```
+
+> **I build systems, break systems, and learn how systems actually work.**
+
+I'm an **IoT-focused engineer** with a strong interest in **cybersecurity, offensive security, Linux and full-stack development**.
+
+My playground sits somewhere between:
+
+**Hardware ⚡ + Software 💻 + Networks 🌐 + Security 🔐**
+
+---
+
+## `current mission`
+
+```text
+[████████████████████░░] 85%
+
+⚡ IoT Engineering
+███████████████████████░
+
+🌐 Full-Stack Development
+████████████████████░░░░
+
+🔐 Offensive Security
+████████████████░░░░░░░
+
+🐧 Linux
+████████████████████░░░
+
+🤖 AI / Intelligent Systems
+██████████████░░░░░░░░░
+```
+
+### Currently Learning
+
+- 🔐 **Offensive Pentesting**
+- 🐧 **Linux & Security**
+- 🌐 **Web Application Security**
+- ⚡ **IoT Security**
+- 🤖 **AI-powered systems**
+- ☁️ **Cloud & DevOps**
+
+---
+
+# `what i build`
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ IoT Systems
+
+Building connected systems using:
+
+`ESP32` `Arduino` `Sensors` `Embedded Systems`
+
+From hardware prototypes to intelligent connected systems.
+
+</td>
+
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+Currently exploring:
+
+`Pentesting` `Linux` `Burp Suite` `OWASP`
+
+Breaking applications to understand how to secure them.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+Building modern applications with:
+
+`React` `Next.js` `Node.js` `MongoDB`
+
+</td>
+
+<td width="50%">
+
+### 🤖 Intelligent Systems
+
+Exploring the combination of:
+
+`AI` + `IoT` + `Automation`
+
+to build smarter real-world systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+# `featured projects`
+
+### 🚨 IoT Smart Monitoring System
+
+> Real-time IoT monitoring and intelligent environmental/traffic management system.
+
+**Stack**
+
+`ESP32` `Sensors` `IoT` `Web Dashboard` `Automation`
+
+---
+
+### 🎓 InSearch / CampusBridge
+
+> A student-focused platform connecting students, colleges and companies.
+
+**Stack**
+
+`Next.js` `TypeScript` `Tailwind` `Supabase`
+
+**Features**
+
+`Authentication` `Student Profiles` `Jobs` `Applications` `RLS`
+
+---
+
+### 🪖 IoT Multi-Feature Smart Helmet
+
+> A connected safety system designed around accident detection and emergency response.
+
+**Hardware**
+
+`ESP32-CAM` `MPU6050` `GPS` `Bluetooth`
+
+**Features**
+
+`Dashcam` `Accident Detection` `SOS` `LED Alerts`
+
+---
+
+# `tech_stack`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase" />
+
+### DevOps / Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,linux" />
+
+### IoT / Hardware
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+### Design / 3D
+
+<img src="https://skillicons.dev/icons?i=figma,blender,unity" />
+
+</div>
+
+---
+
+# `security playground`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                 SECURITY INTERESTS                   ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  Web Pentesting       ████████████████░░░░           ║
+║  Linux Security       ███████████████░░░░░           ║
+║  Network Security     █████████████░░░░░░           ║
+║  IoT Security         ████████████░░░░░░░           ║
+║  OWASP                ███████████████░░░░░           ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+### Tools I like exploring
+
+`Burp Suite` • `OWASP` • `Linux` • `Docker` • `Git` • `Postman`
+
+> **Hack ethically. Learn relentlessly. Build responsibly.**
+
+---
+
+# `github analytics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChiniPitaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniPitaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+
+</div>
+
+---
+
+# `contribution matrix`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiniPitaji&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# `trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChiniPitaji&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" />
+
+</div>
+
+---
+
+# `connect`
+
+<div align="center">
+
+<a href="mailto:kumarshivamtiwari0@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117" />
+</a>
+
+<a href="https://linkedin.com/in/kumar-shivam-37a865312">
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117" />
+</a>
+
+<a href="https://instagram.com/chini._.pitaji">
+<img src="https://img.shields.io/badge/INSTAGRAM-00F7FF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/ChiniPitaji">
+<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" />
+</a>
+
+</div>
+
+---
+
+# `support`
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/chinipitaji">
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" />
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> The best way to understand a system is to build it.`
+
+### `> The second best way is to break it.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+
+</div>
